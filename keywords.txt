@@ -1,0 +1,28 @@
+#######################################
+# Syntax Coloring Map LM48100Q
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin	KEYWORD2
+enable	KEYWORD2
+disable	KEYWORD2
+setInput	KEYWORD2
+setVolume	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+LM48100Q	KEYWORD2
+#######################################
+# Constants (LITERAL1)
+IN_1	LITERAL1
+IN_2	LITERAL1
+MUX	LITERAL1
+MUTE	LITERAL1
+#######################################
